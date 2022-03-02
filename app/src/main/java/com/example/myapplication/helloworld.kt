@@ -1,9 +1,9 @@
 package com.example.myapplication
 
 fun main(){
-    println("helloworld")
+    println("hello world")
 
-    val w = 64f
+    val w = 65f
     val h = 1.7f
     val bmi = w / (h*h)
     println("your bmi is $bmi")
