@@ -6,6 +6,7 @@ fun main(){
     val h = 1.7f
     val bmi = w / (h*h)
     println("your bmi is $bmi")
+
 }
 
 
